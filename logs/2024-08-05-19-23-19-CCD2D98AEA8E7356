@@ -1,1 +1,0 @@
-5f4fda117f2d2f9f8085eeb30a68242a582e7189329b0db84a50ac2345c31868 test-baricata [05/Aug/2024:18:24:40 +0000] 216.194.80.212 - JMPGANGMV9SKVQYX REST.HEAD.BUCKET - "HEAD / HTTP/1.1" 403 AccessDenied 243 - 12 - "-" "Go-http-client/1.1" - II2Dv6pj5hIhBnwgwgVFXGyyfUrPQYubsDP07pcgOJurEc9kddXybq8N/LURKAIKN6SES2H+8nI= - - - test-baricata.s3.amazonaws.com - - -
